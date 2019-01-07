@@ -1,2 +1,0 @@
-# ml-walkthrough
-ML course
